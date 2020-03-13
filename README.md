@@ -210,9 +210,13 @@ Verschillen server en client side
 cookies zijn server side en hebben een maximum opslag van 4kb
 local storage is client side en heeft een maximum opslag van 5mb, daarnaast zal local storage langer online blijven.
 
+Na het lezen van deze artikelen is voor mij helemaal duidelijk wat het precieze verschil is tussen serverside en clientside renderen. Dit zal mij veel helpen bij het vak Progressive Web Apps.
+
 #### Interessante Bronnen
 
 - [FreeCodeCamp](https://www.freecodecamp.org/news/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d/)
+- [Developers](https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering)
+- [Medium](https://medium.com/@benjburkholder/javascript-seo-server-side-rendering-vs-client-side-rendering-bc06b8ca2383)
 
 ## Einde
 
