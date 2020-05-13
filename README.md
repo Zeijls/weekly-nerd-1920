@@ -8,10 +8,6 @@ Welkom bij mijn weelky nerd! Het afgelopen jaar hebben we iedere week een gastco
 - [Funda Workshop](#Funda-Workshop)
 - [Sanne t Hoofd](#Sanne-t-Hoofd)
 
-## Artikelen
-
-- [Server side vs Client Side renderen](#Server-side-vs-Client-Side-renderen)
-
 ### Geweldig Grafisch Ontwerp
 
 #### Inleiding
@@ -131,6 +127,10 @@ Aantekeningen Weekly Nerd Sanne
 - [Microinteractions ~Dan Saffer](http://1.droppdf.com/files/ft5ct/oreilly-microinteractions-full-color-edition-2014.pdf)
 
 </details>
+
+## Artikelen
+
+- [Server side vs Client Side renderen](#Server-side-vs-Client-Side-renderen)
 
 ### Server side vs Client Side renderen
 
