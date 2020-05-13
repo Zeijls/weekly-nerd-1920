@@ -18,6 +18,8 @@ Welkom bij mijn weelky nerd! Het afgelopen jaar hebben we iedere week een gastco
 
 De eerste Weekly Nerd werd gegeven door Hidde de Vries op 13 februari op de HvA. Hij is op dit moment een freelancer en oud collega van Vasilis.
 
+<details><summary>Hidde de Vries 13 februari</summary>
+
 #### Geweldig Grafisch ontwerp toepassen op het web
 
 Aan het begin van het college begon Hidde met een heleboel inspiratie vanuit oude schilders. Hidde vind het zonde dat we ons beperkt houden in het web. We kunnen zoveel gave iedeen bedenken, maar houden ons vaken binnen de lijntjes wat ieder bedrijf doet. Facebook spendeert bijvoorbeeld dagen aan het aanpassen van een icootje in de navigatiebalk, en kijkt of dit impact heeft. Hij vind dat onzin en wilt zich op het "wow-effect" van de gebruiker richten. Zodra de gebruiker dit effet voelt op jouw website zal het ten alle tijden beter blijven hangen.
@@ -49,12 +51,15 @@ Een aantal tips die hidde gaf tijdens zijn college:
 - [Jen Simons](https://jensimmons.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Grid Garden](https://cssgridgarden.com/)
+</details>
 
 ### Funda Workshop
 
 #### Inleiding
 
 Voor deze workshop moesten we op 26 februari het bedrijf van Funda toe. Hier kregen we eerst een korte uitleg over het bedrijf en vervolgens moesten we aan de slag.
+
+<details><summary>Funda 26 februari</summary>
 
 #### Instaleren
 
@@ -93,11 +98,15 @@ Ik heb voor deze workshop geen aantekeningen gemaakt omdat we vooral bezig waren
 ![Front-page](Sketchnote,Aantekningen/Funda/Funda1.jpg)
 ![Front-page](Sketchnote,Aantekningen/Funda/Funda2.jpeg)
 
+</details>
+
 ### Sanne t Hoofd
 
 #### Inleiding
 
 Sanne t Hoofd is een docent op de HvA. Ik heb heb in het eerste jaar ook gehad voor Human Computer Interaction. Inmiddels is er in het eerste jaar een keuzevak bijgekomen wat voor een groot deel lijkt op CSS to the Rescue. Sannen liet een aantal eindprojecten zien van de eerste jaars studenten en ik was zwaar onder de indruk van wat ze allemaal al konden maken.
+
+<details><summary>Sanne t Hoofd</summary>
 
 #### Drie definities Microinteracties ~ Dan Saffer
 
@@ -121,6 +130,8 @@ Aantekeningen Weekly Nerd Sanne
 - [Little Big Details](https://littlebigdetails.com/)
 - [Microinteractions ~Dan Saffer](http://1.droppdf.com/files/ft5ct/oreilly-microinteractions-full-color-edition-2014.pdf)
 
+</details>
+
 ### Server side vs Client Side renderen
 
 #### Inleiding
@@ -129,6 +140,7 @@ Voor het vak Progressive Web Apps gaan we een applicatie die Client Side was ger
 
 Sinds het begin van de tijd was de conventionele methode om uw HTML op een scherm te krijgen, het gebruik van server-side rendering. Het was de enige manier. U laadde uw .html-pagina's op uw server, vervolgens ging uw server en veranderde ze in nuttige documenten in de browsers van uw gebruikers. Je zou kunnen stellen dat websites tegenwoordig meer lijken op applicaties die zich voordoen als websites. Het web is gewoon een stuk geavanceerder dan vroeger.
 
+<details><summary>Server side vs Client side renderen</summary>
 #### Server side renderen
 
 Hoe server-side rendering werkt
@@ -217,6 +229,7 @@ Na het lezen van deze artikelen is voor mij helemaal duidelijk wat het precieze 
 - [FreeCodeCamp](https://www.freecodecamp.org/news/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d/)
 - [Developers](https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering)
 - [Medium](https://medium.com/@benjburkholder/javascript-seo-server-side-rendering-vs-client-side-rendering-bc06b8ca2383)
+</details>
 
 ## Einde
 
