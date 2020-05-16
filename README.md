@@ -131,6 +131,7 @@ Aantekeningen Weekly Nerd Sanne
 ## Artikelen
 
 - [Server side vs Client Side renderen](#Server-side-vs-Client-Side-renderen)
+- [Functional Programming](#Functional-Programming)
 
 ### Server side vs Client Side renderen
 
@@ -229,6 +230,20 @@ Na het lezen van deze artikelen is voor mij helemaal duidelijk wat het precieze 
 - [FreeCodeCamp](https://www.freecodecamp.org/news/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d/)
 - [Developers](https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering)
 - [Medium](https://medium.com/@benjburkholder/javascript-seo-server-side-rendering-vs-client-side-rendering-bc06b8ca2383)
+</details>
+
+### Server side vs Client Side renderen
+
+#### Inleiding
+
+Na het afronden van de laatste vakken van deze minor kreeg ik de feedback dat ik mij nu moet gaan richten op het refactoren van de code. Kleinere en DRY functies, functional programming. We hebben het hier al vaker over gehad tijdens de lessen, maar toen ging het dwars langs mij heen omdat ik nog te druk bezig was met het begrijpen.
+
+Tijdens de meesterproef wil ik hiermee aan de slag, maar het leek mij een goede voorbereiding om hier alvast wat research naar te doen en een artikel over te schrijven.
+
+<details><summary>Functional Programming</summary>
+
+#### Interessante Bronnen
+
 </details>
 
 ## Einde
